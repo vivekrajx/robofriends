@@ -6,7 +6,7 @@ Steps to run:
 4. npm start
 
 ROBOFRIENDS DEMO!
-![ROBOFRIENDS DEMO](robofriends_demo.gif)
+!(robofriends_demo.gif)
 
 ## Available Scripts
 
