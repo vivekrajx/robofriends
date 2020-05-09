@@ -5,7 +5,7 @@ Steps to run:
 3. npm audit fix --force
 4. npm start
 
-ROBOFRIENDS DEMO!
+                                    ROBOFRIENDS DEMO!
 ![robofriends demo](robofriends_demo.gif)
 
 ## Available Scripts
