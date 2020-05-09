@@ -5,6 +5,7 @@ Steps to run:
 3. npm audit fix --force
 4. npm start
 
+*See it in action here: http://robo-friend.surge.sh/*
                                     ROBOFRIENDS DEMO!
 ![robofriends demo](robofriends_demo.gif)
 
